@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e97d94bdcec41c642a2f8648668a991b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startScreen: {fileID: 5932605894183056957, guid: eafa1867234e99247801d7d56c8fc8e9, type: 3}
+  - gameScreen: {fileID: 8254081714656289972, guid: 3c6629541bca0b94fab50e29b69ecbc9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
